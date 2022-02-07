@@ -62,7 +62,8 @@
       "type": "string",
       "defaultValue": "2019-datacenter-gensecond",
       "allowedValues": [
-        "Windows 10 Pro, version 20H2-Gen2",
+        "Windows 10 Pro, version 20H2-Gen1",
+        "Windows 10 Pro, version 20H2-Gen1",
         "2019-datacenter-gensecond",
         "2019-datacenter-core-gensecond",
         "2019-datacenter-core-smalldisk-gensecond",
